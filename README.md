@@ -10,6 +10,7 @@ The task for the team members are distributed as follows:
 - Home page
 - Advanced search
 
+------ 
 	Martin Petkov tasks: UI Prototype of following pages:
 --------------------------------------------------------
 - Login page
