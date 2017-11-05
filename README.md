@@ -4,7 +4,7 @@ Team / Collaborators: Vasil Panovski,
 
 The task for the team members are distributed as follows:
 
-**** Vasil Panovski tasks: UI Prototype of following pages:
+	Vasil Panovski tasks: UI Prototype of following pages:
 --------------------------------------------------------
 - Header and Footer
 - Home page
