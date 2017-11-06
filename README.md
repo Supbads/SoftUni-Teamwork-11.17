@@ -1,6 +1,6 @@
 Online-Ticket-Store UI Prototype - SoftUni Web JS Practical teamwork October 2017
 ========================================================================================
-Team / Collaborators: Vasil Panovski, 
+Team / Collaborators: Vasil Panovski, Martin Petkov, Hristo Spirtov
 
 The task for the team members are distributed as follows:
 
@@ -16,6 +16,15 @@ The task for the team members are distributed as follows:
 - Login page
 - Register Page
 - Purchase Basket page
+
+------ 
+	Hristo Spirtov tasks: UI Prototype of following pages:
+--------------------------------------------------------
+- Upcoming events page
+- View event details page
+
+------
+
 
 
 
