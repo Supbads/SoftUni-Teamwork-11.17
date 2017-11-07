@@ -9,13 +9,16 @@ The task for the team members are distributed as follows:
 - Header and Footer
 - Home page
 - Advanced search
+- Add/Edit/Manage ticket page
+- Purchase tickets page
+- Events map page
 
 ------ 
 	Martin Petkov tasks: UI Prototype of following pages:
 --------------------------------------------------------
 - Login page
-- Register Page
-- Purchase Basket page
+- Register page
+- Purchase basket page
 
 ------ 
 	Hristo Spirtov tasks: UI Prototype of following pages:
